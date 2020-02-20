@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Teams Score Counter Explicit_Intent</string>
+    <string name="title_rules">FIRST TO REACH 5 WINS!!!</string>
+    <string name="team1_show_count">0</string>
+    <string name="team_1">TEAM 1</string>
+    <string name="team2_show_count">0</string>
+    <string name="team_2">TEAM 2</string>
+    <string name="the_winner_is">The Winner is</string>
+    <string name="reset">Reset</string>
+    <string name="activity2_name">Winner Activity</string>
+</resources>
